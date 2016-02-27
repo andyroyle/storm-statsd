@@ -1,0 +1,11 @@
+[
+  {
+    "host": "https://my.storm.instance",
+    "username": "user",
+    "password": "password",
+    "tags": {
+      "foo": "bar"
+    },
+    "prefix": "yay"
+  }
+]

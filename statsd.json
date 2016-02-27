@@ -1,0 +1,6 @@
+{
+  "host": "localhost",
+  "port": 8125,
+  "interval": 10,
+  "prefix": "my.storm"
+}

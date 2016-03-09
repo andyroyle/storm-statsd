@@ -19,6 +19,7 @@
   "homepage": "https://github.com/andyroyle/redis-statsd#readme",
   "dependencies": {
     "grunt-mocha-test": "^0.12.7",
+    "lodash.keyby": "^4.2.0",
     "request": "^2.69.0",
     "statsd-client": "^0.2.1",
     "storm-http": "^1.0.0"

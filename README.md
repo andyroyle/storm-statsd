@@ -11,6 +11,21 @@ cd node_modules/storm-statsd/
 node storm.js /path/to/config/files/
 ```
 
+###Gauges
+
+Per component (bolts + spouts)
+
+- errorLapsedSeconds
+- emitted
+- transferred
+- acked
+- executeLatency
+- processLatency
+- failed
+- executors
+- tasks
+- capacity
+
 ###Config Files
 
 ###storm.json

@@ -7,6 +7,9 @@
     "test": "grunt",
     "start": "node storm.js"
   },
+  "bin": {
+    "storm-statsd": "./bin/storm-statsd.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/andyroyle/storm-statsd.git"

@@ -6,9 +6,8 @@ A little app that will poll one or more storm instances and push their statistic
 Uses the [storm-ui rest api](https://github.com/Parth-Brahmbhatt/incubator-storm/blob/master/STORM-UI-REST-API.md).
 
 ```
-npm i storm-statsd
-cd node_modules/storm-statsd/
-node storm.js /path/to/config/files/
+npm i -g storm-statsd
+storm-statsd /path/to/config/files/
 ```
 
 ###Gauges

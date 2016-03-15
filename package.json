@@ -21,7 +21,6 @@
   },
   "homepage": "https://github.com/andyroyle/redis-statsd#readme",
   "dependencies": {
-    "grunt-mocha-test": "^0.12.7",
     "lodash.keyby": "^4.2.0",
     "request": "^2.69.0",
     "statsd-client": "^0.2.1",
@@ -31,6 +30,7 @@
     "grunt": "^0.4.5",
     "grunt-cli": "^0.1.13",
     "grunt-contrib-jshint": "^1.0.0",
+    "grunt-mocha-test": "^0.12.7",
     "mocha": "^2.4.5",
     "proxyquire": "^1.7.4",
     "should": "^8.2.2"

@@ -1,6 +1,6 @@
 {
   "name": "storm-statsd",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "description": "pull info from storm http-api and publish to statsd",
   "main": "storm.js",
   "scripts": {

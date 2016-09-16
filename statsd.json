@@ -2,5 +2,6 @@
   "host": "localhost",
   "port": 8125,
   "interval": 10,
-  "prefix": "my.storm"
+  "prefix": "my.storm",
+  "debug": true
 }

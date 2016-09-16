@@ -1,8 +1,8 @@
 [
   {
-    "host": "https://my.storm.instance",
-    "username": "user",
-    "password": "password",
+    "host": "http://v-ci-dtrc-sh-01.ve-ci.com",
+    "username": "admin",
+    "password": "xexaXW5cw9L5Mtkz",
     "tags": {
       "foo": "bar"
     },

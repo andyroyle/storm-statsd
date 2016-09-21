@@ -1,8 +1,8 @@
 [
   {
-    "host": "http://v-ci-dtrc-sh-01.ve-ci.com",
-    "username": "admin",
-    "password": "xexaXW5cw9L5Mtkz",
+    "host": "http://my.storm.cluster",
+    "username": "user",
+    "password": "pass",
     "tags": {
       "foo": "bar"
     },
